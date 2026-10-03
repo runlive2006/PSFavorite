@@ -1,0 +1,14 @@
+# ===== 个人数据：含你的真实命令历史，切勿提交 =====
+.fav_commands.json
+
+# ===== 备份 / 临时文件 =====
+*.bak
+*.tmp
+*.log
+*~
+
+# ===== 编辑器 / 系统生成 =====
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
